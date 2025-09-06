@@ -18,7 +18,6 @@ Given customer data, predict whether they will **repay the loan** or **default**
 - **Pandas, NumPy** – Data manipulation
 - **Matplotlib, Seaborn** – Data visualization
 - **Scikit-learn** – ML models and evaluation
-- **XGBoost** – Gradient boosting classifier
 
 ## 🧠 ML Models Used
 
