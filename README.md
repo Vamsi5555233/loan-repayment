@@ -23,8 +23,7 @@ Given customer data, predict whether they will **repay the loan** or **default**
 ## 🧠 ML Models Used
 
 - Logistic Regression
-- Random Forest
-- XGBoost
+- Decision Trees
 
 ## 📊 Evaluation Metrics
 
@@ -42,7 +41,7 @@ Given customer data, predict whether they will **repay the loan** or **default**
 
 ## ✅ Results
 
-- Best performing model: **XGBoost** with highest accuracy and recall
+- Best performing model: **Decision Tree** with highest accuracy and recall
 - Insights: Features like income, credit history, and loan amount played major roles in predicting repayment.
 
 ## 📈 Future Work
